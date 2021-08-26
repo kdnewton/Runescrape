@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-- [test](test)
+- [test](test.html)
 
 You can use the [editor on GitHub](https://github.com/kdnewton/Runescrape/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
